@@ -1,5 +1,5 @@
 //------------------------------------------------
-//Meus estudos da liguagem golang
+//Meus estudos da linguagem golang
 //
 //------------------------------------------------
 package main
