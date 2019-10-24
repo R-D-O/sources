@@ -1,6 +1,6 @@
 //------------------------------------------------
 //Meus estudos da linguagem golang
-//
+//ref: NBK Mundo Tech : https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW
 //------------------------------------------------
 package main
 
